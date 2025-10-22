@@ -1,0 +1,37 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"example_message": "Hello world {username}",
+
+	"analytics_dashboard": "Analytics Dashboard",
+	"dashboard": "Dashboard",
+	"analytics": "Analytics",
+	"tap_print_admin": "Tap-Print Admin",
+
+	"view_all_charts": "View All Charts",
+	"customer_id": "Customer ID: {id}",
+	"view_customer_analytics": "View Customer Analytics",
+
+	"showing_analytics_for": "Showing analytics for {customerName}",
+	"customer_page_views_analytics": "Customer page views analytics",
+	"filtered_by": "Filtered by: {customerName}",
+
+	"page_views": "Page Views",
+	"today": "Today",
+	"this_month": "This Month",
+	"last_3_months": "Last 3 Months",
+	"customer": "Customer",
+	"deleted": "DELETED",
+	"id": "ID: {id}",
+
+	"theme": "Theme",
+	"light": "Light",
+	"dark": "Dark",
+	"system": "System",
+	"log_out": "Log out",
+
+	"loading": "Loading...",
+
+	"language_english": "English",
+	"language_german": "German",
+	"navigation_language": "Language"
+}
